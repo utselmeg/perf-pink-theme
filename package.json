@@ -4,6 +4,17 @@
   "description": "perfect-pink",
   "version": "0.0.1",
   "publisher": "tselmeg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/utselmeg/perf-pink-theme"
+  },
+  "keywords": [
+    "themes",
+    "pink",
+    "girly",
+    "tselmeg",
+    "dark pink"
+  ],
   "engines": {
     "vscode": "^1.77.0"
   },
