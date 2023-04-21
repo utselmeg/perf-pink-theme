@@ -1,0 +1,22 @@
+{
+  "name": "pink-serena",
+  "displayName": "pink-serena",
+  "description": "perfect-pink",
+  "version": "0.0.1",
+  "publisher": "tselmeg",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "bestpink",
+        "uiTheme": "vs-dark",
+        "path": "./themes/perf-pink-color-theme.json"
+      }
+    ]
+  }
+}
